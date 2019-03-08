@@ -13,6 +13,6 @@ long an article would have an impact could help authors,
 libraries, publishers, research communities, and funding
 agencies in determining if an article is worthy to spend
 the resources and funds towards publishing the article. In
-our study we use Altmetrics dataset and built various
+used Altmetrics dataset and built various
 models on it to predict the impact of an article using
 various online platforms.

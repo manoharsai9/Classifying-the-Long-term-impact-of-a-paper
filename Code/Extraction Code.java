@@ -1,7 +1,4 @@
-/*
- * Mechanotherapy: how physical therapists\u2019 prescription of exercise promotes tissue repair
- Remove unicode while taking citation on Google sc
- */
+
 
 import java.io.File;
 import java.io.FileNotFoundException;
